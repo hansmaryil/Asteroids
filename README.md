@@ -14,6 +14,7 @@ Instructions to run the code and play the game:
 Simply click on the following link: http://www.codeskulptor.org/#user28_KwrrHcS73vAtAAN.py
 
 Should the link not work for some reason, please follow these instructions:
+
 1. Open Google Chrome (this is the preferred browser) and navigate to codeskulptor.org
 
 2. Copy the code from the asteroid_game.py file in this repo
